@@ -61,9 +61,7 @@ Traditional security systems have limitations. This project provides an automate
 
 - *Accuracy:* Measures object detection precision.  
 - *Response Time:* Speed of alerts from detection to notification.  
-- *Energy Efficiency:* Power usage and battery life analysis.  
-
-(Include graphs/tables for better visualization.)  
+- *Energy Efficiency:* Power usage and battery life analysis.    
 
 ---
 
@@ -83,3 +81,8 @@ A smart, energy-efficient surveillance solution.
 - Improve AI detection.  
 - Enhance low-light performance.  
 - Increase durability and reliability.
+
+
+For more information, you can contact me at 
+**[harith.abdmanan@gmail.com](mailto:harith.abdmanan@gmail.com)**
+
