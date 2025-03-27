@@ -36,7 +36,7 @@ Traditional security systems have limitations. This project provides an automate
 
 ### **Object Detection**  
 - AI Camera detects movement and sends email alerts.  
-![AI Camera](image/aicamera.jpg)  
+![AI Camera](aicamera.jpg)  
 
 ### **Obstacle Avoidance**  
 - IR & Ultrasonic sensors help navigate safely.  
