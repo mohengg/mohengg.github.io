@@ -44,7 +44,7 @@ Traditional security systems have limitations. This project provides an automate
 
 ### **Path Following**  
 - 5-channel IR sensor enables line tracking.  
-![Path Following](line.jpg)  
+![Path Following](line.png)  
 
 ### **Upside-down Alert**  
 - Gyroscope triggers a buzzer if flipped.  
@@ -52,7 +52,7 @@ Traditional security systems have limitations. This project provides an automate
 
 ### **Remote Control**  
 - App-based control via Bluetooth.  
-![Remote Control](remote.jpg)  
+![Remote Control](remote.png)  
 
 ---
 
