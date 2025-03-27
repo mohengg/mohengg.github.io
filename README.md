@@ -1,7 +1,7 @@
 # Home Monitoring System
 
 ## Navigation  
-[Introduction](#introduction) | [System Architecture](#system-architecture) | [Key Features](#key-features) | [Results](#results) | [Applications](#applications) | [Conclusion](#conclusion)  
+[Introduction](#introduction--problem-statement) | [System Architecture](#system-architecture--components) | [Key Features](#key-features--functions) | [Results](#results--performance) | [Applications](#applications) | [Conclusion](#conclusion--future-improvements)  
 
 ---
 
