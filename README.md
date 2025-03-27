@@ -1,4 +1,5 @@
-# SOLAR-CHARGED SURVEILLANCE ROBOT WITH AI-POWERED OBJECT DETECTION AND PRECISION LINE FOLLOWING
+# <span style="color:red;"SOLAR-CHARGED SURVEILLANCE ROBOT WITH AI-POWERED OBJECT DETECTION AND PRECISION LINE FOLLOWING</span>
+
 
 ## Navigation  
 [Introduction](#introduction--problem-statement) | [System Architecture](#system-architecture--components) | [Key Features](#key-features--functions) | [Results](#results--performance) | [Applications](#applications) | [Conclusion](#conclusion--future-improvements)  
