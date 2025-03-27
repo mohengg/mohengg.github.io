@@ -48,7 +48,7 @@ Traditional security systems have limitations. This project provides an automate
 
 ### **Upside-down Alert**  
 - Gyroscope triggers a buzzer if flipped.  
-![Upside-down Alert](image/upside-down.jpg)  
+![Upside-down Alert](gyro.png)  
 
 ### **Remote Control**  
 - App-based control via Bluetooth.  
