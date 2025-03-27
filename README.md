@@ -40,7 +40,7 @@ Traditional security systems have limitations. This project provides an automate
 
 ### **Obstacle Avoidance**  
 - IR & Ultrasonic sensors help navigate safely.  
-![Obstacle Avoidance](image/obstacle.jpg)  
+![Obstacle Avoidance](IR.png)  
 
 ### **Path Following**  
 - 5-channel IR sensor enables line tracking.  
