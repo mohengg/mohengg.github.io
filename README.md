@@ -36,7 +36,7 @@ Traditional security systems have limitations. This project provides an automate
 ## Key Features & Functions  
 
 ### *Object Detection*  
-- AI Camera detects movement and sends email alerts.  
+- AI Camera detects human and sends email alerts.  
 ![AI Camera](aicamera.jpg)  
 
 ### *Obstacle Avoidance*  
